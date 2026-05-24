@@ -1,0 +1,26 @@
+{
+    "produto1": {
+        "nome": "Produto Teste",
+        "preco": 27.0,
+        "estoque": 10,
+        "descricao": "Produto digital.",
+        "imagem": "https://i.imgur.com/4M34hi2.png",
+        "entrega": "Entrega teste enviada após aprovação."
+    },
+    "Produto1": {
+        "nome": "Conta Nivel 15+",
+        "preco": 1.5,
+        "estoque": 14,
+        "descricao": "Produto criado pelo painel.",
+        "imagem": "",
+        "entrega": "Conta nivel 15.com"
+    },
+    "produto2": {
+        "nome": "Level 15+",
+        "preco": 1.5,
+        "estoque": 157,
+        "descricao": "Conta Level 15 Com:\n20k ouro+\n15 diamantes\nrank e cs desbloqueados",
+        "imagem": "https://i.imgur.com/pRZcqbO.png",
+        "entrega": "contanivwel15.com"
+    }
+}
